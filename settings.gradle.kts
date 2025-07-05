@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "ComposeAndCleanArchitctureExample"
 include(":app")
-include(":testmodule")
